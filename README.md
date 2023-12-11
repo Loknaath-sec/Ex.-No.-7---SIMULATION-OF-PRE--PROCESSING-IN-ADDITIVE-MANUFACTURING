@@ -45,7 +45,7 @@
 ![image](https://github.com/Loknaath-sec/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742558/74390a24-a73e-4a66-874f-57707b686197)
 
 
-### Name:P. LOKNAATH
+### Name: P.LOKNAATH
 ### Register Number: 212223240080
 
 ## Result: 
